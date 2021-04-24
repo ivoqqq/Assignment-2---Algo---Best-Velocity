@@ -23,7 +23,6 @@ function bestVelocity(input){
       best.sequence = currentSequence;
       best.sum = currentSum;      
     }
-    
   }
   console.log(best);
 }
